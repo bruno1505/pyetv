@@ -1,6 +1,4 @@
-#PyeTV version 1.2
-
-= Changes =
+=PyeTV version 1.2 =
 
 The channels list now has program info as metadata, if it's available from EyeTV.  
 
